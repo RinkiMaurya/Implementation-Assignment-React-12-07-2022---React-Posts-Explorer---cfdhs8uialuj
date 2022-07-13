@@ -1,0 +1,22 @@
+.odd{
+    background-color: rgba(255, 0, 0, 0.279);
+}
+
+.even{
+    background-color: rgba(0, 255, 128, 0.279);
+}
+.post-preview{
+    border-radius: 4px;
+}
+.post-title{
+    padding: 8px 16px;
+}
+.post-title a{
+    color: black;
+}
+.post-title a:hover{
+    color: rgb(88, 88, 88);
+}
+ul{
+    list-style: none;
+}
